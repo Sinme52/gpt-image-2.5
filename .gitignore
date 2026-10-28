@@ -1,0 +1,19 @@
+# API keys: never commit
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# Generated images and sidecar JSON
+gpt-image-outputs/
+
+# Build artifact (attach to a GitHub Release instead)
+*.zip
+*.skill
+
+# Python / OS
+__pycache__/
+*.pyc
+.DS_Store
