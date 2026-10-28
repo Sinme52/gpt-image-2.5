@@ -73,3 +73,7 @@ python3 gpt-image-2-5/scripts/gpt_image.py release --image gpt-image-outputs/dra
 
 - API の利用料金は OpenAI アカウントに課金されます。`xhigh` は `medium` より大幅に時間とコストがかかります。
 - このスキル専用のキーを作り、権限を画像生成に絞って予算上限を設定しておくことをおすすめします。
+
+## ライセンス
+
+[MIT License](LICENSE)
